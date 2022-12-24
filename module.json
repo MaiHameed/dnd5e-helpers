@@ -3,7 +3,7 @@
     "title": "DnD5e Helpers",
     "description": "Little helpers for little tasks.",
     "system": ["dnd5e", "sw5e"],
-    "version": "3.0.0-alpha",
+    "version": "10-alpha",
     "author": "honeybadger, Kandashi, kekilla",
     "authors": [
       {
@@ -55,9 +55,9 @@
       "/styles/action-dialog-app.css"
     ] ,
     "socket": true,
-    "url": "https://github.com/trioderegion/dnd5e-helpers",
+    "url": "https://github.com/MaiHameed/dnd5e-helpers",
     "manifest": "",
-    "download": "",
-    "minimumCoreVersion": "9",
-    "compatibleCoreVersion": "9"
+    "download": "https://github.com/MaiHameed/dnd5e-helpers/archive/refs/tags/10-alpha.zip",
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "10"
 }
